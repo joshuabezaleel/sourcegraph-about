@@ -1,6 +1,6 @@
 # Code intelligence team
 
-[Roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit#heading=h.dimwsc9ccmwq)
+[Roadmap](../../product/roadmap.md#code-intel)
 
 ## Vision
 
